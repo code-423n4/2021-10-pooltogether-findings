@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether v4 contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "G",
+  "title": "Gas improvement _transferTwab",
+  "issueId": 16,
+  "issueUrl": "https://github.com/code-423n4/2021-10-pooltogether-findings/issues/16"
+}
