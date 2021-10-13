@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether v4 contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "1",
+  "title": "`RingBufferLib.newestIndex` returns wrong value when no entries",
+  "issueId": 27,
+  "issueUrl": "https://github.com/code-423n4/2021-10-pooltogether-findings/issues/27"
+}
