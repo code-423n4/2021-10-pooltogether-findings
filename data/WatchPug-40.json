@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether v4 contest",
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "G",
+  "title": "`PrizeSplit.sol#_totalPrizeSplitPercentageAmount()` Avoid unnecessary copy from storage to memory can save gas",
+  "issueId": 40,
+  "issueUrl": "https://github.com/code-423n4/2021-10-pooltogether-findings/issues/40"
+}
