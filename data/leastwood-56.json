@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether v4 contest",
+  "handle": "leastwood",
+  "address": "0x28235dE0121700a462B5098Cff7D3615b050551F",
+  "risk": "3",
+  "title": "Miners Can Re-Roll the VRF Output to Game the Protocol",
+  "issueId": 56,
+  "issueUrl": "https://github.com/code-423n4/2021-10-pooltogether-findings/issues/56"
+}
